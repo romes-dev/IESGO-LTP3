@@ -1,0 +1,14 @@
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/bin/Debug/net7.0/AppdeTeste
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/bin/Debug/net7.0/AppdeTeste.deps.json
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/bin/Debug/net7.0/AppdeTeste.runtimeconfig.json
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/bin/Debug/net7.0/AppdeTeste.dll
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/bin/Debug/net7.0/AppdeTeste.pdb
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/obj/Debug/net7.0/AppdeTeste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/obj/Debug/net7.0/AppdeTeste.AssemblyInfoInputs.cache
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/obj/Debug/net7.0/AppdeTeste.AssemblyInfo.cs
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/obj/Debug/net7.0/AppdeTeste.csproj.CoreCompileInputs.cache
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/obj/Debug/net7.0/AppdeTeste.dll
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/obj/Debug/net7.0/refint/AppdeTeste.dll
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/obj/Debug/net7.0/AppdeTeste.pdb
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/obj/Debug/net7.0/AppdeTeste.genruntimeconfig.cache
+/Users/romes/Documents/GitHub/IESGO-LTP3/apps/AppdeTeste/obj/Debug/net7.0/ref/AppdeTeste.dll

@@ -1,0 +1,54 @@
+Exercício: Derivação de Sentenças com uma Gramática Simples
+
+Considere a seguinte gramática de exemplo:
+
+1. S -> NP VP
+2. NP -> Det N
+3. NP -> N
+4. VP -> V NP
+5. Det -> 'o'
+6. N -> 'gato' | 'cachorro'
+7. V -> 'persegue' | 'late'
+
+Aqui, S representa a sentença, NP o sintagma nominal, VP o sintagma verbal, Det o determinante, N o substantivo e V o verbo. As regras da gramática indicam como as sentenças podem ser formadas.
+
+Tarefa:
+
+Comece com a sentença inicial S.
+Use as regras gramaticais para derivar uma sentença válida.
+Escreva cada etapa da derivação até que você obtenha uma sentença terminal.
+Conte o número de etapas até chegar ao final
+
+
+#### Exemplo
+
+Sentença Inicial: S
+
+1. Usando a regra S -> NP VP:
+   S -> NP VP
+
+2. Usando a regra NP -> Det N:
+   S -> Det N VP
+
+3. Usando a regra Det -> 'o':
+   S -> 'o' N VP
+
+4. Usando a regra N -> 'gato':
+   S -> 'o' 'gato' VP
+
+5. Usando a regra VP -> V NP:
+   S -> 'o' 'gato' V NP
+
+6. Usando a regra V -> 'persegue':
+   S -> 'o' 'gato' 'persegue' NP
+
+7. Usando a regra NP -> Det N:
+   S -> 'o' 'gato' 'persegue' Det N
+
+8. Usando a regra Det -> 'o':
+   S -> 'o' 'gato' 'persegue' 'o' N
+
+9. Usando a regra N -> 'cachorro':
+   S -> 'o' 'gato' 'persegue' 'o' 'cachorro'
+
+Sentença Derivada: 'o gato persegue o cachorro'

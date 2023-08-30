@@ -18,3 +18,20 @@ Use uma variável para armazenar a idade calculada.
 Use a função Console.ReadLine() para receber a entrada do usuário e Convert.ToInt32() para converter a entrada em um número inteiro.
 
 */
+
+using System;
+
+namespace atividades
+{
+    class exercicio01
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Digite o ano de nascimento: ");
+            int anoNascimento = Convert.ToInt32(Console.ReadLine());
+            int anoAtual = DateTime.Now.Year;
+            int idade = anoAtual - anoNascimento;
+            Console.WriteLine("Sua idade é: " + idade);
+        }
+    }
+}
