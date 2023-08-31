@@ -1,4 +1,19 @@
-﻿using System;
+// NOVA FORMA DE PAGAMENTO INSTANTANEO - PÍQUIS
+
+// O Banco Píquis está desenvolvendo uma nova forma de pagamento instantâneo, o Píquis.
+// Você foi convidado(a) para refatorar esse código e aprimorar alguns detalhes:
+
+// 1. O sistema deve permitir que o usuário realize quantas transferências quiser, até que ele decida sair.
+// 2. O sistema deve verificar se o beneficiário existe antes de realizar a transferência.
+// 3. O sistema deve verificar se o valor da transferência é maior que zero.
+// 4. O sistema deve verificar se o saldo do usuário é suficiente para realizar a transferência.
+// 5. O sistema deve exibir uma mensagem de sucesso após a transferência.
+// 6. Certifique-se de validar se o nome da conta inserido é válido (ou seja, "joao" ou "maria") e exiba uma mensagem de erro se o nome da conta não for reconhecido.
+// 7. O sistema deve exibir o saldo do usuário quando o usuário escolher a opção de exibir o saldo.
+// 8. O sistema deve exibir uma mensagem de erro se o usuário tentar realizar uma transferência para ele mesmo.
+// 9. O sistema deve exibir uma mensagem de erro se o usuário tentar realizar uma transferência para uma conta inexistente.
+// 10. O sistema deve exibir uma mensagem de erro se o usuário tentar realizar uma transferência com um valor maior que o saldo disponível.
+using System;
 
 class Program
 {
