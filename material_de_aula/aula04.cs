@@ -59,7 +59,7 @@ namespace AprendendoCSharp
             // Exemplo 07 - Contains()
             // O método Contains() verifica se uma string contém outra string.
 
-            string nomeCompleto3 = "João Silva";
+            string nomeCompleto3 = "João Silvani";
             bool contem = nomeCompleto3.Contains("Silva"); // true
 
             Console.WriteLine(contem);
@@ -109,6 +109,7 @@ namespace AprendendoCSharp
 
 // Exercícios
 // 1) Crie um programa que peça ao usuário para digitar uma palavra e exiba quantos caracteres tem essa palavra.
+
 // 2) Crie um programa que peça ao usuário para digitar uma palavra e exiba quantas vogais tem essa palavra.
 // 3) Crie um programa que peça ao usuário para digitar uma palavra e exiba se essa palavra começa com vogal ou consoante.
 // 4) Crie um programa que peça ao usuário para digitar uma palavra e exiba se essa palavra termina com vogal ou consoante.
@@ -241,9 +242,9 @@ namespace AprendendoCSharp
         static void Main(string[] args)
         {
             Console.WriteLine("Digite uma palavra:");
-            string palavra = Console.ReadLine();
+            string palavra = "RADAR"
 
-            string palavraInvertida = "";
+            string palavraInvertida = "RADAR";
 
             for (int i = palavra.Length - 1; i >= 0; i--)
             {

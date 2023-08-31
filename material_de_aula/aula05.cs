@@ -2,6 +2,21 @@
 
 // Programa que checa usuário (admin) e senha (1234) para garantir acesso ao sistema ou retornar uma mensagem de erro.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 using System;
 
 namespace AprendendoCSharp
