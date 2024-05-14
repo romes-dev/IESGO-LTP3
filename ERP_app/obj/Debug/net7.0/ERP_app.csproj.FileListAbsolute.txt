@@ -1,0 +1,14 @@
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/bin/Debug/net7.0/ERP_app
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/bin/Debug/net7.0/ERP_app.deps.json
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/bin/Debug/net7.0/ERP_app.runtimeconfig.json
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/bin/Debug/net7.0/ERP_app.dll
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/bin/Debug/net7.0/ERP_app.pdb
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/obj/Debug/net7.0/ERP_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/obj/Debug/net7.0/ERP_app.AssemblyInfoInputs.cache
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/obj/Debug/net7.0/ERP_app.AssemblyInfo.cs
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/obj/Debug/net7.0/ERP_app.csproj.CoreCompileInputs.cache
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/obj/Debug/net7.0/ERP_app.dll
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/obj/Debug/net7.0/refint/ERP_app.dll
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/obj/Debug/net7.0/ERP_app.pdb
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/obj/Debug/net7.0/ERP_app.genruntimeconfig.cache
+/Users/romes/Documents/GitHub/IESGO-LTP3/ERP_app/obj/Debug/net7.0/ref/ERP_app.dll
