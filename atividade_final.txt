@@ -5,46 +5,55 @@ Objetivo:
 Desenvolver uma aplicação web completa, desde o planejamento até a implantação e testes, passando por todas as etapas de desenvolvimento, incluindo segurança e escalabilidade.
 
 Requisitos do Projeto:
-Planejamento e Análise de Requisitos (10%)
+
+>>> Planejamento e Análise de Requisitos (10%)
 
 Definição clara do problema.
 Análise de requisitos funcionais e não funcionais.
 Definição do público-alvo e dos objetivos do site.
-Design e Prototipagem (15%)
+
+>>> Design e Prototipagem (15%)
 
 Wireframes de todas as páginas principais.
 Protótipo navegável de alta fidelidade.
 Design responsivo e acessível.
-Desenvolvimento Front-end (20%)
+
+>>> Desenvolvimento Front-end (20%)
 
 Implementação das interfaces de usuário conforme o design.
 Uso de HTML, CSS e JavaScript.
 Integração com APIs (se necessário).
-Desenvolvimento Back-end (20%)
+
+>>> Desenvolvimento Back-end (20%)
 
 Configuração do servidor, banco de dados e APIs.
 Implementação de lógica de negócios.
 Autenticação e autorização.
 Integração e Testes (15%)
 
-Testes unitários e de integração.
+>>> Testes unitários e de integração.
 Testes de usabilidade e acessibilidade.
 Correção de bugs e refinamento.
-Segurança (10%)
+
+>>> Segurança (10%)
 
 Implementação de medidas de segurança como HTTPS, sanitização de entradas e gestão de sessões.
 Proteção contra vulnerabilidades comuns (SQL Injection, XSS, CSRF).
-Implantação e Escalabilidade (10%)
+
+>>>Implantação e Escalabilidade (10%)
 
 Implantação em um ambiente de produção.
 Configurações para escalabilidade e alta disponibilidade.
-Critérios de Análise e Pontuação:
-Funcionalidade (30%): A aplicação funciona como esperado sem bugs críticos.
-Usabilidade (20%): Facilidade de uso, design intuitivo, responsividade.
-Segurança (20%): Implementação eficaz de medidas de segurança.
-Qualidade do Código (15%): Código limpo, bem organizado e documentado.
-Inovação e Criatividade (15%): Uso de tecnologias modernas, soluções criativas e inovadoras.
+
+### Critérios de Análise e Pontuação:
+- Funcionalidade (30%): A aplicação funciona como esperado sem bugs críticos.
+- Usabilidade (20%): Facilidade de uso, design intuitivo, responsividade.
+- Segurança (20%): Implementação eficaz de medidas de segurança.
+- Qualidade do Código (15%): Código limpo, bem organizado e documentado.
+- Inovação e Criatividade (15%): Uso de tecnologias modernas, soluções criativas e inovadoras.
+
 Entrega:
+
 Documento contendo:
 * Código-fonte no GitHub com, pelo menos, o README detalhado.
 * Documentação de projeto incluindo wireframes, requisitos e descrição das funcionalidades.
